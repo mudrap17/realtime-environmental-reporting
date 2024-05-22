@@ -3,11 +3,11 @@ from confluent_kafka import Producer
 import socket
 
 conf = {
-    "bootstrap.servers": "pkc-6ojv2.us-west4.gcp.confluent.cloud:9092",
+    "bootstrap.servers": "abc.us-west4.gcp.confluent.cloud:9092",
     "security.protocol": "SASL_SSL",
     "sasl.mechanism": "PLAIN",
-    "sasl.username": "G7F5CJMSRO2IIRTM",
-    "sasl.password": "E97q4lDBN8wXQqqmq3TLtSyn6ZOqw67aT0KPd0jdve7k2CaYvpTqv6vmmGOuvFtT",
+    "sasl.username": "yourusername",
+    "sasl.password": "yourpassword",
     "client.id": socket.gethostname(),
 }
 
