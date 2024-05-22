@@ -5,7 +5,7 @@ This following diagram describes architecture for a system that streams environm
 ![image](https://github.com/mudrap17/realtime-environmental-reporting/assets/76879120/0b00b45c-3636-4ccf-9960-11077d5f578b)
 
 
-**Blog post**: 
+**Blog post**: https://medium.com/@mudrapatel17/data-engineering-concepts-part-10-stream-processing-with-spark-and-kafka-42a69fd23f0c
 
 ## Components
 
